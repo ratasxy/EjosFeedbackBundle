@@ -2,19 +2,19 @@ Easy way to get client ideas and bug reports
 
 # features:
 
-	- propio proveedor de usuarios
-	- feedback anonimo
-	- etiquetado de feedbacks
+	- custom user provider
+	- anonymous feedback
+	- feedback taging
 	- feedback merging
-	- moderacion
+	- moderation
 	- widgets
  
 ## optional
 
-	- formulario de nuevo feedback con buscador para evitar duplicados
-	- integracion con github issues
-	- exportar
+	- search on submit feedback, to avoid duplicates
+	- integration with github issues
+	- export
 	- api
-	- comunidad
-	- estadisticas
-	- privacidad
+	- comunity
+	- stats
+	- private answers
