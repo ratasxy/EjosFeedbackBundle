@@ -1,3 +1,5 @@
+FeedbackBundle:
+
 Easy way to get client ideas and bug reports
 
 # features:
