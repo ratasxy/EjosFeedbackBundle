@@ -1,8 +1,8 @@
-FeedbackBundle:
+# FeedbackBundle:
 
 Easy way to get client ideas and bug reports
 
-# features:
+## features:
 
  - custom user provider
  - anonymous feedback
